@@ -1,0 +1,9 @@
+Package: com.wl.samremote
+Name: SamRemote
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the annoying ads in SamRemote app. 
+Maintainer: W LIN
+Author: W LIN 
+Section: Tweaks
